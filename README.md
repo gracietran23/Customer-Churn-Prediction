@@ -26,5 +26,3 @@ To analyze and predict customer churn, the following methods were employed:
 ## Objective
 
 The primary objective of this project is to understand which factors contribute to and impact customer churn, ultimately aiding businesses in devising effective strategies for customer retention.
-
-For detailed implementation and analysis, refer to the provided Python scripts and Jupyter notebooks in the repository.
