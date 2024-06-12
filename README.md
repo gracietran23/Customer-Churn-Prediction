@@ -18,7 +18,7 @@ To analyze and predict customer churn, the following methods were employed:
 
 ## Data
 
-- The dataset used for this analysis includes 20 attributes, with the target attribute being 'Churn'.
+- The dataset used for this analysis includes 20 attributes, with the target attribute is 'Churn'.
 - The data was split into a train set consisting of 2666 rows and a test set containing 667 rows.
     - Use **train** set to **build** model
     - Use **test** set to **validate** the predictions and **evaluate** accuracy of model
